@@ -25,3 +25,19 @@ _autosave-*
 Thumbs.db
 .DS_Store
 
+# ===== KiCad backups & temp files =====
+*-backups/
+_autosave-*
+*.bak
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.tmp
+*.old
+
+# ===== Archives =====
+*.zip
+*.7z
+*.rar
+
