@@ -1,0 +1,27 @@
+# KiCad temporary files
+*-backups/
+*.bak
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Autosave
+_autosave-*
+
+# Cache
+*.cache
+*.dcm
+
+# Gerbers & outputs (optional)
+*.gbr
+*.drl
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
+
