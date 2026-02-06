@@ -5864,7 +5864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "MCP4725xxx-xCH"
+		(property "Value" "MCP4725A2T-ECH"
 			(at 189.484 110.998 0)
 			(effects
 				(font

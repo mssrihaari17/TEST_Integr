@@ -3599,6 +3599,28 @@
 			)
 		)
 	)
+	(global_label "-12V"
+		(shape input)
+		(at 35.56 147.32 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9f417401-df31-40f6-aadc-cbed557745e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 35.56 155.3852 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "5V"
 		(shape input)
 		(at 123.19 135.89 180)
@@ -3678,6 +3700,28 @@
 		(uuid "b3050b99-b7d5-4939-9a03-b2d379246d88")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 67.4528 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3v3"
+		(shape input)
+		(at 107.95 25.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f738966d-9ea3-47da-b4e3-52aaad92cbc0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.3218 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7361,7 +7405,7 @@
 		(dnp no)
 		(uuid "bf280d52-8a59-4be9-b74c-3624173f30a2")
 		(property "Reference" "R41"
-			(at 37.084 149.352 90)
+			(at 42.164 145.034 90)
 			(effects
 				(font
 					(size 1.27 1.27)
