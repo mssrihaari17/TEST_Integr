@@ -637,16 +637,12 @@
       "Root"
     ],
     [
-      "5cc10699-6105-455c-9975-9ca0b906834c",
-      "POWER SUPPLY"
-    ],
-    [
       "67a157b6-1f41-4621-8fe4-10cef685d6f6",
       "Fn Gen"
     ],
     [
       "1014f424-c109-445d-abe0-b27ab66a6e95",
-      "RPS"
+      "RPS & POWER DESIGN"
     ]
   ],
   "text_variables": {}
