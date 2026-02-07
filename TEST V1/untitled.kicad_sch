@@ -1930,8 +1930,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 205.74 76.2 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal"
+			(at 142.24 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
